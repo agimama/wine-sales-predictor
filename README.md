@@ -49,6 +49,4 @@ Python, pandas, NumPy, scikit-learn (LinearRegression, StandardScaler, train_tes
 - `wine_shop_sales.csv` — 365 days of data
 - `actual_vs_predicted.png` — results chart
 
----
-**About me:** Marketing professional (6+ years) moving into AI. Head of Marketing at Bottle O'clock, Enugu. Training in AI & ML at TechQuest Academy + AI & Automation at TS Academy.
-Contact: agneslegaspi110@gmail.com | linkedin.com/in/agneschinedu | github.com/agimama
+
